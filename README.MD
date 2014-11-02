@@ -2,6 +2,7 @@ Simple HW program in Rust
 ========================
 
 The program to write:
+
 You are to write a program to interact with a data file of economic data. The data file has header information followed by the data. Each line of the data has a country name, the year represented by the data, amount of exports, balance of trade, population and geographical area of the world. Your program should offer the user choices of what to do. These choices include:
 
     Finding the top 5 exporting countries for a given year
