@@ -1,0 +1,8 @@
+[package]
+
+name = "country_program"
+version = "0.0.1"
+authors = ["Stephen Chavez <stephen.chavez12@gmail.com>"]
+
+[dependencies.rust-csv]
+git = "git://github.com/BurntSushi/rust-csv"

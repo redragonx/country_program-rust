@@ -1,0 +1,12 @@
+[root]
+name = "country_program"
+version = "0.0.1"
+dependencies = [
+ "rust-csv 0.5.0 (git+git://github.com/BurntSushi/rust-csv#e8945bf8a1e8779727748c2e0d460f8d9aaf4b67)",
+]
+
+[[package]]
+name = "rust-csv"
+version = "0.5.0"
+source = "git+git://github.com/BurntSushi/rust-csv#e8945bf8a1e8779727748c2e0d460f8d9aaf4b67"
+
